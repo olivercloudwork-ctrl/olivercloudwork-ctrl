@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**olivercloudwork-ctrl/olivercloudwork-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Olli from Germany 🇩🇪
 
-Here are some ideas to get you started:
+I'm currently transitioning into IT with the goal of becoming a Cloud Engineer by 2029. Right now I'm building my foundations in Linux, Networking, Automation and Cloud technologies while following the Learn to Cloud roadmap by @madebygps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+Linux Administration
+Networking Fundamentals
+Bash Scripting
+Cloud Fundamentals
+
+## 🏊 Hobbies
+Triathlon
+Photography
+Gaming
+
+## 🎯 Goals
+- [x] Complete an Ironman
+- [ ] Become a Cloud Engineer in 2029
+
+## 🔗 Connect with me
+[!Instagram:] (https://www.instagram.com/oliverpexxer/)
+[!LinkedIn:] (https://www.linkedin.com/in/oliver-pecker-b8a968322/)
