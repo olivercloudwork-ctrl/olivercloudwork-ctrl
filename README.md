@@ -2,7 +2,7 @@
 
 I'm Olli from Germany 🇩🇪
 
-I'm currently transitioning into IT with the goal of becoming a Cloud Engineer by 2029. Right now I'm building my foundations in Linux, Networking, Automation and Cloud technologies while following the Learn to Cloud roadmap by @madebygps.
+I'm currently transitioning into IT with the goal of becoming a Cloud Engineer by 2029. Right now I'm building my foundations in Linux, Networking, Automation and Cloud technologies while following the Learn to Cloud roadmap by @madebygps
 
 ## 🚀 Currently Learning
 - Linux Administration
