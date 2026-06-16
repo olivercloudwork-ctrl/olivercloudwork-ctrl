@@ -5,20 +5,20 @@ I'm Olli from Germany 🇩🇪
 I'm currently transitioning into IT with the goal of becoming a Cloud Engineer by 2029. Right now I'm building my foundations in Linux, Networking, Automation and Cloud technologies while following the Learn to Cloud roadmap by @madebygps.
 
 ## 🚀 Currently Learning
-Linux Administration
-Networking Fundamentals
-Bash Scripting
-Cloud Fundamentals
+- Linux Administration
+- Networking Fundamentals
+- Bash Scripting
+- Cloud Fundamentals
 
 ## 🏊 Hobbies
-Triathlon
-Photography
-Gaming
+- Triathlon
+- Photography
+- Gaming
 
 ## 🎯 Goals
 - [x] Complete an Ironman
 - [ ] Become a Cloud Engineer in 2029
 
 ## 🔗 Connect with me
-[!Instagram:] (https://www.instagram.com/oliverpexxer/)
-[!LinkedIn:] (https://www.linkedin.com/in/oliver-pecker-b8a968322/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oliver-pecker-b8a968322/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/oliverpexxer/)
