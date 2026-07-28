@@ -8,7 +8,7 @@ Right now I'm building my foundations in Linux, Networking, Automation and Cloud
 ## 🚀 Road to Cloud
 - [x] Starting from Zero
 - [x] Linux and Bash
-- [ ] Networking Fundamentals
+- [x] Networking Fundamentals
 - [ ] Programming Fundamentals
 - [ ] Cloud Platform Fundamentals
 - [ ] DevOps Fundamentals
